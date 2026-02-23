@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Saswata Biswas
 
-<!--
-**s9swata/s9swata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Computer Science Undergrad  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Computer Science Engineering student  
+- 💡 Strong frontend foundation, transitioning into backend engineering  
+- ⚙️ Currently learning to build scalable backend & microservices  
+- 🧩 Passionate about DSA and system design  
+- 🎯 Goal: Crack GSoC & build production-grade SaaS products  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- JavaScript / TypeScript  
+- C++
+- Java
+- Python  
+
+### 🌐 Frontend
+- React  
+- Next.js  
+- Tailwind CSS  
+
+### 🔧 Backend
+- Node.js  
+- Express  
+- REST APIs  
+- JWT Authentication  
+- PostgreSQL  
+
+### 🛢️ Databases
+- PostgreSQL  
+- MongoDB  
+
+### ⚙️ Tools & DevOps
+- Git & GitHub  
+- Docker  
+- Linux  
+- Postman  
+
+
+---
+
+
+## 🎯 2026 Goals
+
+- ✅ Master Backend Development  
+- ✅ Contribute to Open Source  
+- ✅ Crack Google Summer of Code  
+- ✅ Launch 3 Production SaaS Products  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/saswatab20](https://www.linkedin.com/in/saswatab20)
+- Email: saswata.biswas20@gmail.com
+
+---
+
+⭐️ From [Saswata Biswas](https://github.com/s9swata)
